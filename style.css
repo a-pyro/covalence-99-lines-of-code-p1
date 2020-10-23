@@ -8,6 +8,11 @@ body {
   box-sizing: border-box;
 }
 
+.container {
+  max-width: 900px;
+  margin: 0 auto;
+}
+
 .friend {
   background-color: rgba(224, 207, 207, 0.062);
   border-radius: 8px;
